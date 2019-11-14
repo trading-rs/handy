@@ -1,0 +1,4 @@
+(library
+ (name handy)
+ (public_name handy)
+ (libraries curl core))

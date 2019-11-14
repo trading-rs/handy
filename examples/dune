@@ -1,0 +1,3 @@
+(executable
+ (name mock_client)
+ (libraries handy))
